@@ -32,7 +32,7 @@ Using a polygon of the **Elk Fire burn scar**, I summarized vegetation condition
 
 ### **Workflow Overview**
 
-<img src="elk_ndvi_workflow_official.png" width="650">
+<img src="Elk_NDVI_Workflow_Official.PNG" width="500">
 
 *Workflow diagram showing the process of downloading Sentinel-2 imagery, calculating NDVI using red and near-infrared bands, and extracting mean NDVI values within the 2022 Elk Fire burn scar using zonal statistics.*
 
