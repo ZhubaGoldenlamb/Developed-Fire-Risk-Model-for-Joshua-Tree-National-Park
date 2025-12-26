@@ -2,7 +2,10 @@
 ### Analyzing desert fire trends using open-source 10 m Sentinel-2 NDVI time series  
 
 **GIS Focus:** Raster analysis, remote sensing, environmental GIS  
-**Tools:** ArcGIS Pro, Sentinel-2, Copernicus Data Hub, NOAA climate data  
+**Tools:** ArcGIS Pro, Sentinel-2, Copernicus Data Hub, NOAA climate data
+
+📍 **Presented at CalGIS 2026 (Esri Headquarters)**  
+This workflow was selected for presentation at the 2026 CalGIS Conference, highlighting its relevance to applied GIS and environmental analysis.
 
 My workflow offers land managers a repeatable, data-driven method to monitor fine-fuel accumulation and identify high-risk fire conditions in arid desert ecosystems.
 
