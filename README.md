@@ -50,10 +50,12 @@ To understand how vegetation conditions changed before the 2022 Elk Fire, I anal
 The results show a clear decline in vegetation greenness leading up to the fire. NDVI values were highest in **spring 2019**, following a wet year that promoted strong growth of invasive annual grasses that persist on the landscape for multiple years. From **2020 through 2022**, NDVI steadily declined, indicating that vegetation was drying and curing over multiple years. The Elk Fire occurred in **late May 2022**, after three consecutive years of low NDVI values, suggesting that fuels were both abundant and dry at the time of ignition.
 
 ![Mean NDVI values (2019–2023) within the Elk Fire burn scar](elk_fire_2022_mean_ndvi.png)
+*This chart synthesizes five years of Sentinel-2 NDVI data within the Elk Fire burn scar, showing a clear decline in vegetation greenness from 2019 to 2022. The pattern reflects a transition from wet-year biomass accumulation to multi-year drying, which contributed to increased fuel availability prior to the fire.*
 
 ---
 
-To better interpret the observed NDVI trends, I compared vegetation greenness with **annual precipitation data** from a nearby NOAA weather station.
+To better interpret the observed NDVI trends, I synthesized vegetation greenness data with annual precipitation records from a nearby NOAA weather station.
+
 
 ### **Precipitation Patterns and Context**
 
@@ -62,6 +64,7 @@ Annual precipitation data provides important context for the NDVI trends. Rainfa
 Although **2023 experienced unusually high rainfall**, NDVI values within the Elk Fire scar did not immediately rebound to pre-fire levels. This is likely because the fire removed much of the existing vegetation, and early regrowth is dominated by invasive annual grasses rather than mature shrubs or Joshua trees.
 
 ![Annual precipitation totals near the Elk Fire site (2019–2023)](Elk_Fire_2019_2023_Precipitation_Histogram.png)
+*This precipitation chart provides climatic context for the NDVI trends, highlighting a wet year in 2019 followed by multiple drier years preceding the 2022 Elk Fire. Comparing precipitation and NDVI patterns illustrates how vegetation growth followed by prolonged drying created high-risk fire conditions.*
 
 ---
 
@@ -92,4 +95,4 @@ By combining satellite remote sensing, raster-based spatial analysis, and time-s
 
 ### **Project Relevance**
 
-This project highlights my experience in **quantitative satellite data collection**, **raster-based spatial analysis within ArcGIS Pro**, and **clear representation of environmental risk through structured charts and visual narratives**. The analysis demonstrates how complex spatial data can be synthesized into actionable insights — skills directly applicable to **GIS engineering, analyst, and environmental data roles**.
+This project demonstrates my experience working with **quantitative satellite datasets**, performing **raster-based spatial analysis and geoprocessing in ArcGIS Pro**, and **synthesizing multi-source environmental data** to identify patterns and generate insights relevant to wildfire risk assessment.
