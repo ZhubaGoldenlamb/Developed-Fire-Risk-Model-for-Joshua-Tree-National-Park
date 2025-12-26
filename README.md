@@ -31,7 +31,8 @@ For each image, I calculated the **Normalized Difference Vegetation Index (NDVI)
 Using a polygon of the **Elk Fire burn scar**, I summarized vegetation conditions within the burned area using the **Zonal Statistics** tool to extract mean NDVI values for each year. These values were compiled into a table and graphed to visualize vegetation trends over time. NDVI trends were then compared with annual precipitation data from a nearby NOAA weather station to interpret how wet years followed by multi-year drying influenced fuel conditions prior to the fire.
 
 ### **Workflow Overview**
-![NDVI workflow diagram](Elk_NDVI_Workflow_Official.png)
+
+<img src="Elk_NDVI_Workflow_Official.png" width="650">
 
 *Workflow diagram showing the process of downloading Sentinel-2 imagery, calculating NDVI using red and near-infrared bands, and extracting mean NDVI values within the 2022 Elk Fire burn scar using zonal statistics.*
 
