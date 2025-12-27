@@ -83,8 +83,8 @@ To further explore the spatial and temporal patterns of wildfire in Joshua Tree 
 
 The StoryMap visualizes fire perimeter polygons moving through time across different vegetation communities, highlighting that **Cheatgrass-dominated habitats accounted for a large proportion of burned areas**. The narrative links fire occurrence with preceding wet years, reinforcing the grass–fire cycle observed in the quantitative analysis.
 
-🔗 **ArcGIS StoryMap:**  
-https://arcg.is/1LC1Ou
+🔗 **Joshua Tree Wildfire StoryMap Repository**  
+([Link to StoryMap GitHub repo](https://github.com/ZhubaGoldenlamb/Joshua-Tree-Fire-History-StoryMap))
 
 ---
 
