@@ -43,7 +43,7 @@ The presentation focused on:
 
 <p float="left">
   <img src="images/CalGIS_Presentation.jpg" width="350" />
-  <img src="images/CalGIS_Q_A.jpg" width="350" />
+  <img src="images/CalGIS_Q_A.npg" width="350" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Annual precipitation data provides important context for the NDVI trends. Rainfa
 
 Although **2023 experienced unusually high rainfall**, NDVI values within the Elk Fire scar did not immediately rebound to pre-fire levels. This is likely because the fire removed much of the existing vegetation, and early regrowth is dominated by invasive annual grasses rather than mature shrubs or Joshua trees.
 
-<img src="images/precipitation_chart.png" width="650" />
+<img src="images/precipitation_chart.png" width="450" />
 
 *This precipitation chart provides climatic context for the NDVI trends, highlighting a wet year in 2019 followed by multiple drier years preceding the 2022 Elk Fire. Comparing precipitation and NDVI patterns illustrates how vegetation growth followed by prolonged drying created high-risk fire conditions.*
 
