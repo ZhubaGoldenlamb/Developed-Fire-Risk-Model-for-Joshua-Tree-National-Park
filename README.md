@@ -12,11 +12,11 @@ My workflow offers land managers a repeatable, data-driven method to monitor fin
 
 Wildfires in Joshua Tree National Park have increased with the spread of invasive annual grasses such as **Red Brome**, **Cheatgrass**, and **Split Grass**. These grasses form continuous fine-fuel beds that persist on the landscape for multiple years, allowing fire to carry through otherwise sparse desert vegetation.
 
-<img src="images/invasive_grasses.png" width="650" />
+<img src="images/invasive_grasses.png" width="450" />
 
 This project analyzes five years of **Sentinel-2 NDVI data (2019–2023)** to identify vegetation patterns that preceded the **2022 Elk Fire**, with the goal of quantifying what a high-risk fire scenario looks like in a desert environment.
 
-<img src="images/location.png" width="650" />
+<img src="images/location.png" width="450" />
 
 ---
 
@@ -43,7 +43,7 @@ The presentation focused on:
 
 <p float="left">
   <img src="images/CalGIS_Presentation.jpg" width="350" />
-  <img src="images/CalGIS_Q_A.npg" width="350" />
+  <img src="images/CalGIS_Q_A.png" width="350" />
 </p>
 
 ---
