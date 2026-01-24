@@ -35,16 +35,17 @@ The presentation focused on:
 - Using Sentinel-2 NDVI time-series data to characterize fine-fuel dynamics
 - Identifying multi-year drying patterns associated with wildfire risk
 - Communicating remote sensing results in a management-relevant context
-
-**📽️ Presentation recording:**  
-🔗 [View recorded presentation](PASTE_VIDEO_LINK_HERE)
-
+- 
 **📸 Presentation photo:**  
 
 <p float="left">
   <img src="images/CalGIS_Presentation.jpg" width="350" />
   <img src="images/CalGIS_QA.png" width="350" />
 </p>
+
+**Walkthrough explaining the NDVI time-series workflow applied to the 2022 Elk Fire in Joshua Tree National Park**
+
+🔗 [Five-Minute Walkthrough](https://youtu.be/sdY1IcSkm4U)
 
 ---
 
