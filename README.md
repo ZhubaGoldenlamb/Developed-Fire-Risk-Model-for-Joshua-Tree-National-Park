@@ -43,7 +43,7 @@ The presentation focused on:
 
 <p float="left">
   <img src="images/CalGIS_Presentation.jpg" width="350" />
-  <img src="images/CalGIS_Q_A.png" width="350" />
+  <img src="images/CalGIS_QA.png" width="350" />
 </p>
 
 ---
