@@ -39,7 +39,7 @@ The presentation focused on:
 **📸 Presentation photo:**  
 
 <p float="left">
-  <img src="images/CalGIS_Presentation.jpg" width="350" />
+  <img src="images/CalGISPresentation.png" width="350" />
   <img src="images/CalGIS_QA.png" width="350" />
 </p>
 
