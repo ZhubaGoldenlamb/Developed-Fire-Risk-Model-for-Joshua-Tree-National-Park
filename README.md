@@ -12,7 +12,11 @@ My workflow offers land managers a repeatable, data-driven method to monitor fin
 
 Wildfires in Joshua Tree National Park have increased with the spread of invasive annual grasses such as **Red Brome**, **Cheatgrass**, and **Split Grass**. These grasses form continuous fine-fuel beds that persist on the landscape for multiple years, allowing fire to carry through otherwise sparse desert vegetation.
 
+<img src="images/invasive_grasses.png" width="650" />
+
 This project analyzes five years of **Sentinel-2 NDVI data (2019–2023)** to identify vegetation patterns that preceded the **2022 Elk Fire**, with the goal of quantifying what a high-risk fire scenario looks like in a desert environment.
+
+<img src="images/location.png" width="650" />
 
 ---
 
@@ -37,7 +41,10 @@ The presentation focused on:
 
 **📸 Presentation photo:**  
 
-<img src="calgis_2026_presentation.jpg" width="600" />
+<p float="left">
+  <img src="images/CalGIS_Presentation.jpg" width="350" />
+  <img src="images/CalGIS_Q_A.jpg" width="350" />
+</p>
 
 ---
 
@@ -53,7 +60,7 @@ Using a polygon of the **Elk Fire burn scar**, I summarized vegetation condition
 
 ### **Workflow Overview**
 
-<img src="elk_ndvi_workflow_official.png" width="500">
+<img src="images/workflow.png" width="700" />
 
 *Workflow diagram showing the process of downloading Sentinel-2 imagery, calculating NDVI using red and near-infrared bands, and extracting mean NDVI values within the 2022 Elk Fire burn scar using zonal statistics.*
 
@@ -67,7 +74,7 @@ To understand how vegetation conditions changed before the 2022 Elk Fire, I anal
 
 The results show a clear decline in vegetation greenness leading up to the fire. NDVI values were highest in **spring 2019**, following a wet year that promoted strong growth of invasive annual grasses that persist on the landscape for multiple years. From **2020 through 2022**, NDVI steadily declined, indicating that vegetation was drying and curing over multiple years. The Elk Fire occurred in **late May 2022**, after three consecutive years of low NDVI values, suggesting that fuels were both abundant and dry at the time of ignition.
 
-![Mean NDVI values (2019–2023) within the Elk Fire burn scar](elk_fire_2022_mean_ndvi.png)
+<img src="images/ndvi_timeseries_chart.png" width="650" />
 *This chart synthesizes five years of Sentinel-2 NDVI data within the Elk Fire burn scar, showing a clear decline in vegetation greenness from 2019 to 2022. The pattern reflects a transition from wet-year biomass accumulation to multi-year drying, which contributed to increased fuel availability prior to the fire.*
 
 ---
@@ -82,7 +89,8 @@ Annual precipitation data provides important context for the NDVI trends. Rainfa
 
 Although **2023 experienced unusually high rainfall**, NDVI values within the Elk Fire scar did not immediately rebound to pre-fire levels. This is likely because the fire removed much of the existing vegetation, and early regrowth is dominated by invasive annual grasses rather than mature shrubs or Joshua trees.
 
-![Annual precipitation totals near the Elk Fire site (2019–2023)](Elk_Fire_2019_2023_Precipitation_Histogram.png)
+<img src="images/precipitation_chart.png" width="650" />
+
 *This precipitation chart provides climatic context for the NDVI trends, highlighting a wet year in 2019 followed by multiple drier years preceding the 2022 Elk Fire. Comparing precipitation and NDVI patterns illustrates how vegetation growth followed by prolonged drying created high-risk fire conditions.*
 
 ---
