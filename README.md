@@ -43,7 +43,7 @@ The presentation focused on:
   <img src="images/CalGIS_QA.png" width="350" />
 </p>
 
-**Walkthrough explaining the NDVI time-series workflow applied to the 2022 Elk Fire in Joshua Tree National Park**
+**🎥 Walkthrough Presentation**
 
 🔗 [Five-Minute Walkthrough](https://youtu.be/sdY1IcSkm4U)
 
