@@ -1,11 +1,8 @@
 # Developed Fire Risk Model for Joshua Tree National Park  
 ### Analyzing desert fire trends using open-source 10 m Sentinel-2 NDVI time series  
-
+📍 **Presented at CalGIS 2026 (Esri Headquarters)**  
 **GIS Focus:** Raster analysis, remote sensing, environmental GIS  
 **Tools:** ArcGIS Pro, Sentinel-2, Copernicus Data Hub, NOAA climate data
-
-📍 **Presented at CalGIS 2026 (Esri Headquarters)**  
-This workflow was selected for presentation at the 2026 CalGIS Conference, highlighting its relevance to applied GIS and environmental analysis.
 
 My workflow offers land managers a repeatable, data-driven method to monitor fine-fuel accumulation and identify high-risk fire conditions in arid desert ecosystems.
 
@@ -23,6 +20,24 @@ This project analyzes five years of **Sentinel-2 NDVI data (2019–2023)** to id
 
 - **Quantify environmental conditions that create peak wildfire risk** in Joshua Tree National Park so land managers can identify high-risk periods and justify proactive mitigation efforts.  
 - **Advance understanding of desert fire dynamics** by examining how wet-year biomass growth followed by multi-year drying creates conditions favorable for fire spread.  
+
+---
+
+## Conference Presentation
+
+This project was presented at **CalGIS 2026**, where I shared the methodology and findings of the Joshua Tree Fire Risk Model with a professional GIS audience.
+
+The presentation focused on:
+- Using Sentinel-2 NDVI time-series data to characterize fine-fuel dynamics
+- Identifying multi-year drying patterns associated with wildfire risk
+- Communicating remote sensing results in a management-relevant context
+
+**📽️ Presentation recording:**  
+🔗 [View recorded presentation](PASTE_VIDEO_LINK_HERE)
+
+**📸 Presentation photo:**  
+
+<img src="calgis_2026_presentation.jpg" width="600" />
 
 ---
 
@@ -62,6 +77,7 @@ To better interpret the observed NDVI trends, I synthesized vegetation greenness
 
 ### **Precipitation Patterns and Context**
 
+I used precipitation only as an independent check on the NDVI signal — and the trends align. Unlike precipitation data, NDVI offers a spatially continuous measure of fuel condition that can be applied where weather stations are sparse or absent.
 Annual precipitation data provides important context for the NDVI trends. Rainfall was highest in **2019**, corresponding with peak NDVI values observed that spring. Precipitation then declined in **2020, 2021, and 2022**, contributing to prolonged drying of both invasive grasses and native shrubs across the landscape.
 
 Although **2023 experienced unusually high rainfall**, NDVI values within the Elk Fire scar did not immediately rebound to pre-fire levels. This is likely because the fire removed much of the existing vegetation, and early regrowth is dominated by invasive annual grasses rather than mature shrubs or Joshua trees.
@@ -90,9 +106,12 @@ The StoryMap visualizes fire perimeter polygons moving through time across diffe
 
 ## **Conclusion**
 
-This project demonstrates that wildfire risk in Joshua Tree National Park is highest **not immediately after wet years**, but after **multiple years of drying that follow strong vegetation growth**. Wet winters promote the spread of invasive annual grasses, while subsequent drought years allow those grasses — along with native shrubs — to cure and persist as fine fuels.
+Some previous work suggests sub-meter imagery is needed to reliably detect vegetation signals in desert systems. 
 
-By combining satellite remote sensing, raster-based spatial analysis, and time-series visualization, this workflow translates complex environmental data into **actionable insights** that can support proactive fire management decisions in arid landscapes.
+Seeing the NDVI trend track precipitation gave me confidence that this 10-meter workflow was capturing a real greenness.
+
+The NDVI time series leading up to the Elk Fire showed sustained drying rather than increasing greenness — illustrating how a repeatable **10-meter workflow** can surface fuel-to-fire patterns across desert landscapes.
+
 
 ---
 
